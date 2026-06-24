@@ -145,7 +145,6 @@ Sensors → ESP32 → Wired → RGB LED Panel (washroom entrance)
 | LED Indicators | RGB (Green/Yellow/Red) | Visual status display outside washroom |
 | Alert System | Active Buzzer | Audible alarm in staff room on critical state |
 | Ventilation | Relay + Exhaust Fan | Auto-activated on moderate/critical condition |
-| Air Freshener | 16mm Ultrasonic Humidifier | Post-reset odor neutralization |
 | Reset Button | Push Button | Manual recovery after critical event |
 
 ### Software
