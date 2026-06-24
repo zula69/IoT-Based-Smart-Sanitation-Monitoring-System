@@ -353,6 +353,13 @@ The system was deployed and tested in **3 real environments** to validate sensor
 - 🏢 **Multi-Floor / Multi-Bathroom** — Scalable dashboard view for full campus coverage
 - 🤖 **ML-Based Anomaly Detection** — Train model on baseline data to reduce false positive rates
 
+## Prototype
+<img width="1280" height="960" alt="3f42d41f-2c6a-431f-bb0b-91cc25252997" src="https://github.com/user-attachments/assets/9506aaab-6b69-448d-893a-866cce667179" />
+
+<img width="1280" height="960" alt="e6e73a30-1dd8-488f-b258-e10819d8cd1f" src="https://github.com/user-attachments/assets/7022ec22-5567-4b6b-897d-6f9a3af3483c" />
+
+<img width="1280" height="960" alt="f9293c72-1679-41ac-b38c-ecabdb6c22c8" src="https://github.com/user-attachments/assets/70292508-2bb6-42a7-b49a-585d4f0e904b" />
+
 ---
 
 **Module:** CNT5015 – Computing Project
