@@ -76,7 +76,7 @@ Sensors → ESP32 → Wired → RGB LED Panel (washroom entrance)
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                    SENSOR LAYER                         │
-│  MQ-135 (Air Quality)  MQ-4 (Gas)  DHT22 (Temp/Humid)  │
+│  MQ-135 (NH3, benzene)  MQ-4 ( Methane)  DHT22(Temp/Hum)│
 └──────────────────────┬──────────────────────────────────┘
                        │
                        ▼
