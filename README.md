@@ -166,16 +166,16 @@ Sensors → ESP32 → Wired → RGB LED Panel (washroom entrance)
 Connect all sensors and actuators to the ESP32:
 
 ```
-MQ-135  Analog Out  ──►  GPIO 34
-MQ-4    Analog Out  ──►  GPIO 35
-DHT22   Data        ──►  GPIO 4
-Buzzer              ──►  GPIO 26
-Fan Relay           ──►  GPIO 27
-Red LED             ──►  GPIO 14
-Yellow LED          ──►  GPIO 12
-Green LED           ──►  GPIO 13
-Humidifier Relay    ──►  GPIO 25
-Reset Button        ──►  GPIO 0  (with 10kΩ pull-up resistor)
+MQ-135  Analog Out  
+MQ-4    Analog Out 
+DHT22   Data       
+Buzzer              
+Fan Relay          
+Red LED            
+Yellow LED         
+Green LED           
+Humidifier Relay   
+Reset Button        
 ```
 
 > ⚠️ Verify exact GPIO pins against your specific ESP32 board pinout before wiring.
